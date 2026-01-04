@@ -43,7 +43,7 @@ A Python-based Telegram bot that automates price monitoring on OLX.ua. It tracks
     python main.py
     ```
 
-<img width="1229" height="930" alt="image" src="https://github.com/user-attachments/assets/35fa7f87-cc07-4dd2-81fd-0709903266ea" />
+<img width="1232" height="327" alt="image" src="https://github.com/user-attachments/assets/841fe7bb-c39e-494c-976a-aa51b8b48817" />
 
 
 ## Disclaimer
