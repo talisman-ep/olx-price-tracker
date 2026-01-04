@@ -21,7 +21,7 @@ A Python-based Telegram bot that automates price monitoring on OLX.ua. It tracks
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/TVOYA-NICNAME/olx-price-tracker.git](https://github.com/TVOYA-NICNAME/olx-price-tracker.git)
+    git clone https://github.com/talisman-ep/olx-price-tracker.git
     cd olx-price-tracker
     ```
 
